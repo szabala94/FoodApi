@@ -1,0 +1,1 @@
+insert into foodList(foodId, kitchen , type) values('1','Włoska','pizzunia cieniutka');
